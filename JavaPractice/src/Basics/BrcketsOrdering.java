@@ -2,7 +2,7 @@ package Basics;
 
 import java.util.Stack;
 
-public class Braces {
+public class BrcketsOrdering {
     public static int smallOpen, curlyOpen, bigOpen =0;
     public static void main(String[] args){
         String braces = "[(])";
